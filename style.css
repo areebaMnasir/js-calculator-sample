@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    flex-wrap: wrap   ;
+}
+.btn button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    background-color: black;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 20px 30px;
+    border: 2px solid gold;
+    margin: 20px;
+    padding: 20px;
+}
+.input input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
